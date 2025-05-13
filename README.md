@@ -2,7 +2,7 @@
 For your Love
 
 
-Webnya lihat sini yah : [https://muhamadayeshaaulia.github.io/Hbd-my-wife/](https://muhamadayeshaaulia.github.io/Hbd-my-wife/)
+Demo link website : [https://muhamadayeshaaulia.github.io/Hbd-my-wife/](https://muhamadayeshaaulia.github.io/Hbd-my-wife/)
 
 <p align="center">
   <a href="https://github.com/muhamadayeshaaulia/Hbd-my-wife.git">
